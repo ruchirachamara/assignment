@@ -18,4 +18,4 @@ npm run dev:watch
 
 Run the development server with Nodemon
 
-Open [http://localhost:3000](http://localhost:5000) with your API client like postman.
+Open (http://localhost:5000) with your API client like postman.
